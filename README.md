@@ -3,9 +3,9 @@
 Los componenetes se encuentran separados en generales y especificos
 
 ###### Ejecutar
-npm install
-npm start
+1- npm install
+2- npm start
 
-Se ejecuta en: http://localhost:3000/
+3- Se ejecuta en: http://localhost:3000/
 
 
